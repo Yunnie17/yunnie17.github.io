@@ -87,7 +87,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #CB98E6;
 }
 
 .navbar-custom .nav li.active {
@@ -136,7 +136,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/overview.jpg) no-repeat bottom center scroll;
+    background: url(../img/puppies.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -255,7 +255,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/computertable.jpg) no-repeat bottom center scroll;
+    background: url(../img/hearts.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -275,7 +275,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #A3FF47;
 }
 
 @media(min-width:767px) {
